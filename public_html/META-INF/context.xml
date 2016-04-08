@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<Context path="/customrss4">
+  <!--Resource name="jdbc/feedDB" auth="Container" type="javax.sql.DataSource"
+            driverClassName="oracle.jdbc.OracleDriver"
+            url="jdbc:oracle:thin:@//eliot.library.ucla.edu:1521/VGER.VGER"
+            username="VGER_SUPPORT" password="VGER_SUPPORT_PWD" maxActive="20"
+            maxIdle="10" maxWait="-1"/-->
+</Context>

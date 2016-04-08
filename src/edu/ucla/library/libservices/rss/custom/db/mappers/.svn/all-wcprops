@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/lwsrepository/!svn/ver/815/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/db/mappers
+END
+RssLocationMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/lwsrepository/!svn/ver/823/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/db/mappers/RssLocationMapper.java
+END
+MarcLanguageCodeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/lwsrepository/!svn/ver/815/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/db/mappers/MarcLanguageCodeMapper.java
+END
+RssMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/lwsrepository/!svn/ver/816/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/db/mappers/RssMapper.java
+END

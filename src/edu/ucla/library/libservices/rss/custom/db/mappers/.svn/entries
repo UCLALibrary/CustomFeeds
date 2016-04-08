@@ -1,0 +1,52 @@
+8
+
+dir
+815
+http://svn.library.ucla.edu/repos/lwsrepository/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/db/mappers
+http://svn.library.ucla.edu/repos/lwsrepository
+
+
+
+2008-01-25T22:44:50.928997Z
+815
+drickard1967
+
+
+svn:special svn:externals svn:needs-lock
+
+RssLocationMapper.java
+file
+823
+
+
+
+2008-02-25T23:04:43.819304Z
+88d1c04944375ec61dda976901df9d9d
+2008-02-26T22:48:41.397664Z
+823
+drickard1967
+
+MarcLanguageCodeMapper.java
+file
+
+
+
+
+2008-01-25T18:38:02.160063Z
+4bae2836673d6e7d619b4c847cad9ce5
+2008-01-25T22:44:50.928997Z
+815
+drickard1967
+
+RssMapper.java
+file
+816
+
+
+
+2008-01-28T18:09:36.439656Z
+a8d68fc9de5f6235bf45687e0bbf8c12
+2008-01-29T22:57:31.184225Z
+816
+drickard1967
+

@@ -1,0 +1,52 @@
+8
+
+dir
+815
+http://svn.library.ucla.edu/repos/lwsrepository/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/beans/tables
+http://svn.library.ucla.edu/repos/lwsrepository
+
+
+
+2008-01-25T22:44:50.928997Z
+815
+drickard1967
+
+
+svn:special svn:externals svn:needs-lock
+
+RssLocation.java
+file
+823
+
+
+
+2008-02-25T23:03:50.117210Z
+260f9a6ec513f62fab5a6edc6fe21e93
+2008-02-26T22:48:41.397664Z
+823
+drickard1967
+
+MarcLanguageCode.java
+file
+
+
+
+
+2008-01-25T18:36:28.429288Z
+67787475a7892f80876e7ca0ed36e07f
+2008-01-25T22:44:50.928997Z
+815
+drickard1967
+
+RssResults.java
+file
+816
+
+
+
+2008-01-28T18:07:58.395918Z
+11a55e7ea9b783bd7a6f641f1e6787c6
+2008-01-29T22:57:31.184225Z
+816
+drickard1967
+

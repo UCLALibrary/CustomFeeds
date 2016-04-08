@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<endpoints
+    xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime"
+    version="2.0">
+
+    <endpoint
+        name="restful-rss"
+        implementation="edu.ucla.library.libservices.rss.custom.web.services.RssService"
+        wsdl="WEB-INF/wsdl/Rss.wsdl"
+        url-pattern="/feed" />
+</endpoints>

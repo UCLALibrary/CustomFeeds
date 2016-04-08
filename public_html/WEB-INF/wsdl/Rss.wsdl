@@ -1,0 +1,2 @@
+<definitions targetNamespace="urn:Rss" xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="urn:Rss" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/">
+</definitions>

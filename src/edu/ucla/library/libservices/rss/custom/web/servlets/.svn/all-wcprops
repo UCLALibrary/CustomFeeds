@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/lwsrepository/!svn/ver/815/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/web/servlets
+END
+PubYearsServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/lwsrepository/!svn/ver/900/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/web/servlets/PubYearsServlet.java
+END
+LanguageServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/lwsrepository/!svn/ver/815/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/web/servlets/LanguageServlet.java
+END
+FeedServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/lwsrepository/!svn/ver/981/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/web/servlets/FeedServlet.java
+END
+CallNumberServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/lwsrepository/!svn/ver/815/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/web/servlets/CallNumberServlet.java
+END
+LocationServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/lwsrepository/!svn/ver/900/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/web/servlets/LocationServlet.java
+END
+ConfirmationServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/lwsrepository/!svn/ver/970/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/web/servlets/ConfirmationServlet.java
+END

@@ -1,0 +1,40 @@
+8
+
+dir
+816
+http://svn.library.ucla.edu/repos/lwsrepository/RSS/branch/Wizard/src/edu/ucla/library/libservices/rss/custom/beans/utility
+http://svn.library.ucla.edu/repos/lwsrepository
+
+
+
+2008-01-29T22:57:31.184225Z
+816
+drickard1967
+
+
+svn:special svn:externals svn:needs-lock
+
+FeedLoggingBean.java
+file
+970
+
+
+
+2008-06-25T17:34:20.227086Z
+1074acefd2e2c8c7beb4dc576110cd70
+2008-06-25T21:14:13.320543Z
+970
+drickard1967
+
+SqlConverter.java
+file
+
+
+
+
+2008-01-28T18:02:52.749449Z
+e6155d0b8b8d74c999da213899e8ca44
+2008-01-29T22:57:31.184225Z
+816
+drickard1967
+

@@ -1,0 +1,61 @@
+
+
+
+
+body {
+	width: 705px;
+	margin: 0;
+	padding: 0;
+	border-style: dashed;
+	border-color: #999999;
+	border-width: 1px 0 0 0;
+	 
+font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+#header {
+	width: 100%;
+	background-color: #536895;
+}
+#footer {
+        height: 60px; 
+	font-size: 10px;
+	line-height: 1.3em;
+	width: 100%;
+	padding: 100px 0 20px 10px;
+}
+#footer p, #footer a:link, #footer a:visited {
+	font-size: 10px;
+}
+#main {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;        
+height: 650px; 
+        width: 705px; 
+ 	border-style: dashed;
+	border-color: #999999;
+	border-width: 1px 1px 1px 1px;
+}
+.text {
+        text-align: left;
+        font-size: 12px;;
+        width: 100%;
+}
+input.buttons {
+        width: 72px;
+        height: 24px;
+}
+input.bigbuttons {
+        width: 100px;
+        height: 24px;
+}
+hr.section {
+        width: 100%;
+        color: #000;
+        background-color: #000;
+        height: 2px;
+}
+.calls {
+        font-size: 9px;
+        width: 325px;
+}
