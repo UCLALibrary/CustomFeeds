@@ -19,9 +19,9 @@ public class DataSourceFactory
     
     ds  = new DriverManagerDataSource();
     ds.setDriverClassName( "oracle.jdbc.OracleDriver" );
-    ds.setUrl( "jdbc:oracle:thin:@//eliot.library.ucla.edu:1521/VGER.VGER" );
-    ds.setUsername( "VGER_SUPPORT" );
-    ds.setPassword( "VGER_SUPPORT_PWD" );
+    ds.setUrl( "URL" );
+    ds.setUsername( "USER" );
+    ds.setPassword( "PWD" );
     
     return ds;
   }
